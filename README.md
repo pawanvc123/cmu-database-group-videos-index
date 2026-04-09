@@ -5,16 +5,16 @@
 > metadata, links, and short excerpts used for reference. No video files are hosted here.
 > If you are the content owner and want this taken down, please open an issue.
 
----
+<!--
 channel_id: UCHnBsf2rH-K7pn09rb3qvkA
-handle: "http://www.youtube.com/@CMUDatabaseGroup"
-title: "CMU Database Group"
+handle: http://www.youtube.com/@CMUDatabaseGroup
+title: CMU Database Group
 url: https://www.youtube.com/@CMUDatabaseGroup/videos
----
+-->
 
 # CMU Database Group
 
-![CMU Database Group](https://yt3.googleusercontent.com/JvxHZCNPDPvOVR7RybRBruUFsP12QGOw_6VurxvV6VH4KMXQT52AcYowP8YuMhFoiVn5FcGWoA=s900-c-k-c0x00ffffff-no-rj)
+<img src="https://yt3.googleusercontent.com/JvxHZCNPDPvOVR7RybRBruUFsP12QGOw_6VurxvV6VH4KMXQT52AcYowP8YuMhFoiVn5FcGWoA=s900-c-k-c0x00ffffff-no-rj" alt="CMU Database Group" width="120">
 
 > Carnegie Mellon University Database Group
 

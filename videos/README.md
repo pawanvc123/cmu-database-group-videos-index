@@ -1,4 +1,4 @@
-# CMU Database Group — Videos
+# Videos
 
 [← Back to channel](../README.md)
 

